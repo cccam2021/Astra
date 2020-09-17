@@ -1,0 +1,107 @@
+#NAME Mas IPTV
+#SERVICE 1:64:18:0:0:0:0:0:0:0:::::::FRANCIA:::
+#DESCRIPTION :::::FRANCIA:::
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live-s102.abweb.com/liveabs102/ngrp%3aanimaux.stream_bis/chunklist_b1096000.m3u8:ANIMAUX
+#DESCRIPTION ANIMAUX
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8:OMEGA
+#DESCRIPTION OMEGA
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8:TV5Monde
+#DESCRIPTION TV5Monde
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live-s101.abweb.com/liveabs101/ngrp%3aaction.stream_bis/chunklist_b1096000.m3u8:ACTION
+#DESCRIPTION ACTION
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live-m03.abweb.com/liveabm03/cinepolar.smil/chunklist_b1296000_slFRA.m3u8:POLAR
+#DESCRIPTION POLAR
+#SERVICE 1:64:19:0:0:0:0:0:0:0:::::::ITALIA:::
+#DESCRIPTION :::::ITALIA:::
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//cld02ibi16.wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8:Tv 2000 Italia
+#DESCRIPTION Tv 2000 Italia
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//wma07.fluidstream.net%3a1935/TeleArena/livestream/live.m3u8:TELE ARENA
+#DESCRIPTION TELE ARENA
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream12.rai.it/live/smil%3arai5.smil/chunklist_b1200000.m3u8:RAI5
+#DESCRIPTION RAI5
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8:RAINEWS24
+#DESCRIPTION RAINEWS24
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8:Rai Movie
+#DESCRIPTION Rai Movie
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8:Rai Premium
+#DESCRIPTION Rai Premium
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//originstream6.rai.it/italy/smil%3araiscuola.smil/chunklist_b900000.m3u8:RAISCUOLA
+#DESCRIPTION RAISCUOLA
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8:RAI GULP
+#DESCRIPTION RAI GULP
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8:RAI YOYO
+#DESCRIPTION RAI YOYO
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8:Canal ITALIA
+#DESCRIPTION Canal ITALIA
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//77.78.130.123/hls/hd.m3u8:ROMATV HD
+#DESCRIPTION ROMATV HD
+#SERVICE 1:64:1A:0:0:0:0:0:0:0:::::::SPORTS:::
+#DESCRIPTION :::::SPORTS:::
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//186.33.227.198/DXTV/smil%3aDXTV.smil/playlist.m3u8:DXTV
+#DESCRIPTION DXTV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8:SPORT 1 HD
+#DESCRIPTION SPORT 1 HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8:SPORT 2 HD
+#DESCRIPTION SPORT 2 HD
+#SERVICE 1:64:1B:0:0:0:0:0:0:0:::::::ADULTOS::
+#DESCRIPTION :::::ADULTOS::
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigass.m3u8:Big Ass HD
+#DESCRIPTION Big Ass HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigdick.m3u8:Big Dick HD
+#DESCRIPTION Big Dick HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigtits.m3u8:Big Tits HD
+#DESCRIPTION Big Tits HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/blowjob.m3u8:Blowjob HD
+#DESCRIPTION Blowjob HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/cuckold.m3u8:Cuckold HD
+#DESCRIPTION Cuckold HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/fetish.m3u8:Fetish HD
+#DESCRIPTION Fetish HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/latina.m3u8:Latina HD
+#DESCRIPTION Latina HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/pov.m3u8:POV HD
+#DESCRIPTION POV HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/russian.m3u8:Russian HD
+#DESCRIPTION Russian HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/teen.m3u8:Teen HD
+#DESCRIPTION Teen HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/threesome.m3u8:Threesome HD
+#DESCRIPTION Threesome HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/hd.jasminchannel.stream/playlist.m3u8:Jasmin TV HD
+#DESCRIPTION Jasmin TV HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//stream.visit-x.tv/vxtv/live_720p:Visit-X.tv
+#DESCRIPTION Visit-X.tv
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//de-origin-live.3qsdn.com%3a1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8:Babestation
+#DESCRIPTION Babestation
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//usaserver.miamitvchannel.com/miamitv/smil%3amiamitv/playlist.m3u8:Miami TV
+#DESCRIPTION Miami TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//213.59.128.162%3a9996/play/FRENCHLOVER/index.m3u8:FRENCH LOVER
+#DESCRIPTION FRENCH LOVER
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//213.59.128.162%3a9996/play/O-la-la/index.m3u8:Oh la la
+#DESCRIPTION Oh la la
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//213.59.128.162%3a9996/play/Pink_O_TV/index.m3u8:Penthouse HD1
+#DESCRIPTION Penthouse HD1
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//213.59.128.162%3a9996/play/Private/index.m3u8:Private TV
+#DESCRIPTION Private TV
+#SERVICE 1:64:1C:0:0:0:0:0:0:0:::::::MUSICA:::
+#DESCRIPTION :::::MUSICA:::
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:mms%3a//streamqm.uigc.net/qmusica:QMusica
+#DESCRIPTION QMusica
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:ONE 1 HD
+#DESCRIPTION ONE 1 HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8:DREAM TV
+#DESCRIPTION DREAM TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:The Voice
+#DESCRIPTION The Voice
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//84.43.207.130/planetahd/planetahd.m3u8:PlanetaHD
+#DESCRIPTION PlanetaHD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8:M2O TV
+#DESCRIPTION M2O TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//wow01.105.net/live/virgin1/chunklist_w25732073.m3u8?JoCaRoIPTV.m3u8:Virgin
+#DESCRIPTION Virgin
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//fms.105.net%3a1935/live/105Test1/livestream.m3u8?JoCaRoIPTV.m3u8:Radio 105 TV
+#DESCRIPTION Radio 105 TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//tv.portalfoxmix.club%3a1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8:PortalFoxmix
+#DESCRIPTION PortalFoxmix
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8?JoCaRoIPTV.m3u8:Music Choice
+#DESCRIPTION Music Choice
